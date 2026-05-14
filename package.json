@@ -1,0 +1,10 @@
+{
+  "name": "theme-lib",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "dist/theme-lib.umd.js",
+  "module": "dist/theme-lib.esm.js",
+  "scripts": {
+    "build": "vite build"
+  }
+}
